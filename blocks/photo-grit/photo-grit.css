@@ -1,0 +1,31 @@
+@import url(./__item/photo-grit__item.css);
+
+.photo-grit {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 16px;
+    max-width: 1184px;
+    margin: 92px 48px;
+}
+
+
+@media screen and (max-width: 1030px) {
+    .photo-grit {
+        grid-gap: 14px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .photo-grit {
+        grid-gap: 16px;
+        margin: 88px 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .photo-grit {
+        grid-gap: 12px;
+        margin: 64px 16px;
+    }
+}
+

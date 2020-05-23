@@ -1,0 +1,30 @@
+.place__paragraph {
+
+    grid-column: 2/3;
+    grid-row: 2/3;
+    /* grid-row: 2/3, 3/4; */
+    margin: 0 0 24px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.67;
+    color: #FFFFFF;
+
+    width: 100%;
+    max-width: 100%;
+}
+
+.place__paragraph:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 320px) {
+    .place__paragraph {
+        padding: 0 16px;
+        font-size: 16px;
+        line-height: 1.6;
+        width: 100%;
+        padding: 0 16px;
+       
+    }
+}
