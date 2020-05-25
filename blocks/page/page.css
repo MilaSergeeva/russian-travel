@@ -1,9 +1,13 @@
+
+
+
+
 .page {
     max-width: 1280px;
     min-height: 6874px;
     background-color: #2A2C2F;
     margin: 0 auto;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     font-family: 'Inter', Arial, sans-serif;
 }
 

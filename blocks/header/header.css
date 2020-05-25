@@ -5,19 +5,22 @@
 .header {
     display: flex;
     justify-content: space-between;
-    font-family: 'Inter', Arial, sans-serif;
-    margin: 28px 48px 0 48px; 
+    font-family: 'Inter';
+    /* padding: 28px 48px 0 48px;  */
+    /* padding-top: 28px; */
+    box-sizing: border-box;
 
 }
 
 @media screen and (max-width: 780px){
     .header {
-        margin: 28px 24px 0 24px;
+        /* margin: 0px 24px 0 24px; */
     }
 }
 
 @media screen and (max-width: 320px){
     .header {
-        margin: 16px 16px 0 16px;
+        /* margin: 0px 16px 0 16px;
+        padding-top: 16px; */
     }
 }

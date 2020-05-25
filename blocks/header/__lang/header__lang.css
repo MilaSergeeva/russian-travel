@@ -1,4 +1,19 @@
 .header__lang {
     display: flex;
     align-items: flex-end;
+    padding: 46px 48px 0 0;
+}
+
+
+@media screen and (max-width: 780px){
+    .header__lang {
+        padding: 46px 24px 0 0;
+    
+    }
+}
+
+@media screen and (max-width: 320px){
+.header__lang {
+    padding: 30px 16px 0 0;
+    }
 }

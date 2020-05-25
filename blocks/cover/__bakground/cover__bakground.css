@@ -2,6 +2,8 @@
     
     background-image: url(../../../images/cover-trains.jpg);
     max-width: 1184px;
+    box-sizing: content-box;
+    /* padding: 245px 0; */
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,4 +16,10 @@
      .cover__bakground {
         margin: 92px 0;
     }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__bakground {
+       margin: 64px 0;
+   }
 }
