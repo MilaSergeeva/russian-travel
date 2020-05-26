@@ -1,5 +1,4 @@
 .cover__bakground {
-    
     display: flex;
     background-image: url(../../../images/cover-trains.jpg);
     background-repeat: no-repeat;
@@ -9,9 +8,6 @@
     height: 100%;
     background-size: cover;
     overflow: auto;
-    /* overflow: visible; */
-    /* justify-content: stretch; */
-    /* align-items: center; */
     box-sizing: border-box;
     flex-grow: 1;
 }
@@ -23,8 +19,3 @@
     }
 }
 
-@media screen and (max-width: 320px) {
-    .cover__bakground {
-       /* margin: 64px 0; */
-   }
-}

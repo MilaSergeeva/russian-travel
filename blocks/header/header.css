@@ -1,11 +1,13 @@
 @import url(./__lang/header__lang.css);
 @import url(./__lang-link/header__lang-link.css);
 @import url(./__logo/header__logo.css);
+@import url(./__lang-link_underline_false/header__lang-link_underline_false.css);
 
 .header {
+    font-family: 'Inter', Arial, sans-serif;
+    text-rendering: optimizeLegibility;
     display: flex;
     justify-content: space-between;
-    font-family: 'Inter';
     box-sizing: border-box;
 }
 

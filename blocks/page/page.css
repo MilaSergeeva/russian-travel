@@ -1,13 +1,7 @@
-
-
-
-
 .page {
     max-width: 1280px;
-    /* min-height: 6874px; */
     background-color: #2A2C2F;
     margin: 0 auto;
-    /* box-sizing: border-box; */
     font-family: 'Inter', Arial, sans-serif;
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
@@ -21,21 +15,18 @@
  @media screen and (max-width: 1030px){
     .page {
         max-width: 1024px;
-        /* min-height: 6898px; */
     }
 }
 
 @media screen and (max-width: 768px){
     .page {
         max-width: 768px;
-        /* min-height: 6846px; */
     }
 }
 
 @media screen and (max-width: 320px){
     .page {
         max-width: 320px;
-        /* min-height: 9617px; */
     }
 } 
 

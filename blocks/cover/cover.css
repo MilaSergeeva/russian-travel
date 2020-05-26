@@ -1,13 +1,13 @@
-
-@import url(./__title/cover__title.css);
-@import url(./__subtitle/cover__subtitle.css);
 @import url(./__bakground/cover__bakground.css);
 @import url(./__overlay/cover__overlay.css);
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
 
 .cover {
+    font-family: 'Inter', Arial, sans-serif;
+    text-rendering: optimizeLegibility;
     display: flex;
     box-sizing: border-box;
-    font-family: 'Inter', Arial, sans-serif;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
@@ -21,22 +21,8 @@
 
 @media screen and (max-width: 1024px) {
     .cover {
-        
         width: 100vw; 
         height: calc(100vw*0.625);
-        /* -webkit-min-height: calc(100vw*0.625); */
-
-
 }
 
 
-
-/* .cover {
-    position: relative;
-    display: block;
-    box-sizing: border-box;
-    font-family: 'Inter', Arial, sans-serif;
-    
-    
-    max-width: 100%; 
-} */
