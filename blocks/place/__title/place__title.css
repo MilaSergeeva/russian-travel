@@ -9,9 +9,16 @@
     max-width: 100%;
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 1024px) {
     .place__title {
-        font-size: 42px;
+        font-size: 7vw;
+        
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__title {
+        font-size: 5.5vw;
         line-height: 1.1;
     }
 }

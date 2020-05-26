@@ -8,6 +8,7 @@
     color: #FFFFFF;
     max-width: 720px;
     margin: 66px auto 24px auto;
+    
 }
 
 @media screen and (max-width: 1030px) {
@@ -16,6 +17,11 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    .lead__title {
+        font-size: 12.5vw;
+    }
+}
 
 
 @media screen and (max-width: 320px) {
