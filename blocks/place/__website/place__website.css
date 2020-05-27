@@ -11,6 +11,12 @@
     transition: .5s ease-in-out;
 }
 
+@media screen and (max-width: 720px) {
+    .place__website {
+        padding: 0 16px;
+        
+    }
+}
 
 @media screen and (max-width: 320px) {
     .place__website {

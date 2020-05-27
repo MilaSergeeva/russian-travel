@@ -6,21 +6,10 @@
     box-sizing: border-box;
     object-fit: cover; 
     text-decoration: none;
-    /* justify-content: center;
-    align-items: center;
-    flex-direction: column; */
-    /* padding: 18% 0; */
-    /* overflow: hidden; */
-    
-    
-    /* padding: 20.7% 0; */
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
 }
-
-
 
 .cover__overlay:hover {
     transition: .5s ease-in-out;

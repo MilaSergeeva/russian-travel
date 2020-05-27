@@ -4,8 +4,6 @@
 @import url(./__subtitle/cover__subtitle.css);
 
 .cover {
-    font-family: 'Inter', Arial, sans-serif;
-    text-rendering: optimizeLegibility;
     display: flex;
     box-sizing: border-box;
     justify-content: center;
@@ -18,7 +16,6 @@
     background-image: url(../../images/cover-trains.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    z-index: 1;
     max-height: 740px; 
     
 }

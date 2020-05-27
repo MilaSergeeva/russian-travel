@@ -5,14 +5,13 @@
 
 @media screen and (max-width: 780px){
     .header__logo {
-        padding: 28px 0 0 24px;
-    
+        padding: 28px 0 0 24px;    
     }
 }
 
 @media screen and (max-width: 320px){
-.header__logo {
-    max-width: 142px;
-    padding: 16px 0 0 16px;
+    .header__logo {
+        max-width: 142px;
+        padding: 16px 0 0 16px;
     }
 }

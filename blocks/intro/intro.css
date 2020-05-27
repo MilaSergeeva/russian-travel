@@ -4,7 +4,25 @@
 @import url(./__list-value/intro__list-value.css);
 
 .intro {
-    font-family: 'Inter', Arial, sans-serif;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
+    padding: 0 148px;
+}
+
+
+@media screen and (max-width: 1030px) {
+    .intro  {
+        padding: 0 48px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .intro {
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        padding: 0 16px;   
+    }
 }

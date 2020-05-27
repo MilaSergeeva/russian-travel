@@ -1,29 +1,28 @@
 .intro__text {
-    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 1.6;
     color: #FFFFFF;
-    margin: 35px 148px 32px 148px;
+    margin: 35px 0 32px 0;
     max-width: 690px;
 }
 
 @media screen and (max-width: 1030px) {
     .intro__text  {
-        margin: 40px 48px 32px 48px;
+        margin: 40px 0 32px 0;
         
     }
 }
 
 @media screen and (max-width: 770px) {
     .intro__text {
-        margin: 40px 24px 32px 24px;
+        margin: 40px 0 32px 0;
         
     }
 }
 
 @media screen and (max-width: 320px) {
     .intro__text {
-        margin: 40px 16px 32px 16px;
+        margin: 40px 0 32px 0;
     }
 }

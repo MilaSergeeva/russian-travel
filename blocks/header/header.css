@@ -4,8 +4,6 @@
 @import url(./__lang-link_underline_true/header__lang-link_underline_true.css );
 
 .header {
-    font-family: 'Inter', Arial, sans-serif;
-    text-rendering: optimizeLegibility;
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
