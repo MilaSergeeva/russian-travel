@@ -14,7 +14,7 @@
     align-content: stretch;
     object-fit: contain;
     width: calc(100% - 96px); 
-    height: 740px;
+    height: calc((100vw - 96px)*0.625);
 }
 
 
