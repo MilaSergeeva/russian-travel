@@ -7,12 +7,6 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1030px) {
-    .intro__title  {
-        margin-top: 92px;
-    }
-}
-
 @media screen and (max-width: 770px) {
     .intro__title {
         margin-top: 88px;
