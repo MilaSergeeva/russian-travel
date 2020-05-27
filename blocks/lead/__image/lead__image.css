@@ -7,16 +7,16 @@
 }
 
 
-@media screen and (max-width: 1030px){
+@media screen and (max-width: 1024px){
     .lead__image {
         margin: 56px auto 8px auto;
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 780px){
     .lead__image {
-        max-width: 768px;
+        max-width: 100%;
     }
 }
 
