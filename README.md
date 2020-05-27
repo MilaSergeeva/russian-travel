@@ -32,3 +32,8 @@
 Запуск
 
 Нужно открыть файл index.html во вкладке браузера
+
+
+Ссылка на проект
+
+https://milasergeeva.github.io/russian-travel/index.html
