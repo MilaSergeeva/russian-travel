@@ -13,11 +13,19 @@
         font-size: 9.4vw;
     }
 }
+
+@media screen and (max-width: 720px) {
+    .cover__title {
+        margin: 0 15%;
+        margin-bottom: 24px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .cover__title {
+        max-width: 250px;
+        margin: 0 auto 16px auto;
         font-size: 32px;
         line-height: 1.09;
-        max-width: 250px;
-        margin-bottom: 16px;
     }
 }
