@@ -2,8 +2,8 @@
 
 ---
 
-<br/>
 ## Description
+
 <br/>
 The one-page website 'Traveling through Russia' tells about the best places to travel in Russia.
 
