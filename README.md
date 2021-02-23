@@ -1,17 +1,34 @@
-Проект 3: Путешествие по России
---------------------------------
+# Project 3: Traveling through Russia
 
-Описание
+---
 
-Одностраничный сайт 'Путешествие по России', расказывает о лучших местах для путешествия по России. 
+## Description
 
+The one-page website 'Traveling through Russia' tells about the best places to travel in Russia.
 
-Используемые технологии
+### :arrow_right: Links to test
 
-Технологически проект выполнен в HTML. Стили прописаны с использованием CSS. В проэкте используется методология БЭМ. 
-Проект выполнен на русском языке.
-Для позиционироапния объектов применялись Flex и Grid.
+https://milasergeeva.github.io/russian-travel/index.html
 
+## :hammer_and_pick:Technologies
+
+The following tecnologies were used to create this project:
+
+- HTML
+
+- CSS
+  Flex and Grid were used for positioning objects;
+  Adaptive layout (breaking point:
+  320px,
+  768px,
+  1024px,
+  1280px. )
+
+- BEM notation
+
+Technologically the project is in HTML. Styles are written using CSS. The project uses the BEM methodology.
+The project was executed in Russian.
+Flex and Grid were used for positioning objects.
 Сайт является адаптивным. Многие стили заданы относительными велечинами (%,vm)
 Контрольные точки:
 320px,
@@ -19,21 +36,7 @@
 1024px,
 1280px.
 
-В проекте использованы ссылки на сторонние ресурсы для получений доп информации.
-Ссылки открываются в новой вкладке браузера.
-Щрифт сайта - Inter. Лицензия на данный шрифт приналежит сервису Figma. Щрифт в открытом доступе, его можно скачать на официальном сайте во вкладке ”Download“ - https://rsms.me/inter/ .
-
-
-Доработки
-
-Перевод сайта на ангрийский язык. И подключение англояхычной версии к проекту
-
-
-Запуск
-
-Нужно открыть файл index.html во вкладке браузера
-
-
-Ссылка на проект
+The project uses links to third-party resources to obtain additional information.
+Links opening in a new browser tab.
 
 https://milasergeeva.github.io/russian-travel/index.html
