@@ -1,4 +1,4 @@
-# Project 3: Traveling through Russia
+# Project: Traveling through Russia
 
 ---
 
