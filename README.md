@@ -2,16 +2,19 @@
 
 ---
 
+<br/>
 ## Description
-
+<br/>
 The one-page website 'Traveling through Russia' tells about the best places to travel in Russia.
 
 ### :arrow_right: Links to test
 
+<br/>
 https://milasergeeva.github.io/russian-travel/index.html
 
 ## :hammer_and_pick:Technologies
 
+<br/>
 The following tecnologies were used to create this project:
 
 - HTML
@@ -26,17 +29,10 @@ The following tecnologies were used to create this project:
 
 - BEM notation
 
-Technologically the project is in HTML. Styles are written using CSS. The project uses the BEM methodology.
-The project was executed in Russian.
-Flex and Grid were used for positioning objects.
-Сайт является адаптивным. Многие стили заданы относительными велечинами (%,vm)
-Контрольные точки:
-320px,
-768px,
-1024px,
-1280px.
-
 The project uses links to third-party resources to obtain additional information.
 Links opening in a new browser tab.
 
-https://milasergeeva.github.io/russian-travel/index.html
+### Preview
+
+<br/>
+<img src="./images/travel.png" width="75%"><br/>
